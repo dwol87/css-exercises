@@ -1,0 +1,19 @@
+.odd {
+    background-color: #da7ba5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd1 {
+    font-size: 24px;
+}
+
+#div2 {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
